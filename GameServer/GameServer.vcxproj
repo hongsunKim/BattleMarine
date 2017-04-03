@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{C7EFEE4F-8FB6-4B41-8ED1-B81D4BD6D8C5}</ProjectGuid>
+    <RootNamespace>GameServer</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)\Bin\$(Configuration)\</OutDir>
+    <IntDir>..\Temp\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)\Bin\$(Configuration)\</OutDir>
+    <IntDir>..\Temp\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutDir>$(SolutionDir)\Bin\$(Configuration)_$(Platform)\</OutDir>
+    <IntDir>..\Temp\$(ProjectName)\$(Configuration)_$(Platform)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>$(SolutionDir)\Bin\$(Configuration)_$(Platform)\</OutDir>
+    <IntDir>..\Temp\$(ProjectName)\$(Configuration)_$(Platform)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>..\;..\Lib\SDK\MySQL\Include</AdditionalIncludeDirectories>
+      <TreatWChar_tAsBuiltInType>false</TreatWChar_tAsBuiltInType>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>..\Lib\SDK\MySQL\Lib</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>CopyToSDK_Debug_Win32.bat</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>..\;..\Lib\SDK\MySQL\Include_x64</AdditionalIncludeDirectories>
+      <TreatWChar_tAsBuiltInType>false</TreatWChar_tAsBuiltInType>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>..\Lib\SDK\MySQL\Lib_x64</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>CopyToSDK_Debug_x64.bat</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>..\;..\Lib\SDK\MySQL\Include</AdditionalIncludeDirectories>
+      <TreatWChar_tAsBuiltInType>false</TreatWChar_tAsBuiltInType>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>..\Lib\SDK\MySQL\Lib</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>CopyToSDK_Release_Win32.bat</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>..\;..\Lib\SDK\MySQL\Include_x64</AdditionalIncludeDirectories>
+      <TreatWChar_tAsBuiltInType>false</TreatWChar_tAsBuiltInType>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>..\Lib\SDK\MySQL\Lib_x64</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>CopyToSDK_Release_x64.bat</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinystr.cpp" />
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinyxml.cpp" />
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinyxmlerror.cpp" />
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinyxmlparser.cpp" />
+    <ClCompile Include="db\AccountDbm.cpp" />
+    <ClCompile Include="db\Dbm.cpp" />
+    <ClCompile Include="db\DbMgr.cpp" />
+    <ClCompile Include="db\DropInfoDbm.cpp" />
+    <ClCompile Include="db\InventoryDbm.cpp" />
+    <ClCompile Include="db\ItemInfoDbm.cpp" />
+    <ClCompile Include="db\MapInfoDbm.cpp" />
+    <ClCompile Include="db\ModInfoDbm.cpp" />
+    <ClCompile Include="db\RewardInfoDbm.cpp" />
+    <ClCompile Include="item\ItemMgr.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="net\ConnectorEx.cpp" />
+    <ClCompile Include="net\ID.cpp" />
+    <ClCompile Include="net\INFO.cpp" />
+    <ClCompile Include="net\ITEM.cpp" />
+    <ClCompile Include="net\Launcher.cpp" />
+    <ClCompile Include="net\ROOM.cpp" />
+    <ClCompile Include="net\USER.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="util\Tick.cpp" />
+    <ClCompile Include="world\ChannelMgr.cpp" />
+    <ClCompile Include="world\PlayerEx.cpp" />
+    <ClCompile Include="world\RoomEx.cpp" />
+    <ClCompile Include="world\RoomHandlerEx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Lib\SDK\TinyXML\tinystr.h" />
+    <ClInclude Include="..\Lib\SDK\TinyXML\tinyxml.h" />
+    <ClInclude Include="CommonHeader.h" />
+    <ClInclude Include="db\AccountDbm.h" />
+    <ClInclude Include="db\DbData.h" />
+    <ClInclude Include="db\DbDataList.h" />
+    <ClInclude Include="db\Dbm.h" />
+    <ClInclude Include="db\DbMgr.h" />
+    <ClInclude Include="db\DropInfoDbm.h" />
+    <ClInclude Include="db\InventoryDbm.h" />
+    <ClInclude Include="db\ItemInfoDbm.h" />
+    <ClInclude Include="db\MapInfoDbm.h" />
+    <ClInclude Include="db\ModInfoDbm.h" />
+    <ClInclude Include="db\RewardInfoDbm.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="Enums.h" />
+    <ClInclude Include="GlobalVariable.h" />
+    <ClInclude Include="item\ItemEx.h" />
+    <ClInclude Include="item\ItemMgr.h" />
+    <ClInclude Include="net\CheatCode.h" />
+    <ClInclude Include="net\ConnectorEx.h" />
+    <ClInclude Include="net\Launcher.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="util\Tick.h" />
+    <ClInclude Include="util\Utility.h" />
+    <ClInclude Include="world\ChannelMgr.h" />
+    <ClInclude Include="world\PlayerEx.h" />
+    <ClInclude Include="world\RoomEx.h" />
+    <ClInclude Include="world\RoomHandlerEx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NetEasy\NetEasy.vcxproj">
+      <Project>{ec29c570-ac7a-4e27-b076-aaf9797158fc}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CopyToSDK_Debug_Win32.bat" />
+    <None Include="CopyToSDK_Debug_x64.bat" />
+    <None Include="CopyToSDK_Release_Win32.bat" />
+    <None Include="CopyToSDK_Release_x64.bat" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

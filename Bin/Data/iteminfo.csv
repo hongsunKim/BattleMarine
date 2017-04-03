@@ -1,0 +1,11 @@
+ii_id,ii_name,ii_type,ii_usable,ii_stocks,ii_buy_point,ii_sell_point,ii_desc
+20000,money,POINT,TRUE,10,10,20,20000번 돈입니다
+20010,ammo,ACTIVE,TRUE,30,100,200,20010번 총알입니다
+20020,ammo,ACTIVE,TRUE,50,100,150,20020번 총알입니다
+20030,ammo,PASSIVE,TRUE,70,50,100,20030번 총알입니다
+20040,money,POINT,TRUE,30,50,80,20040번 돈입니다
+20050,ammo,PASSIVE,TRUE,100,30,80,20050번 총알입니다
+20060,money,POINT,TRUE,50,100,100,20060번 돈입니다
+20100,ammo,PASSIVE,TRUE,120,70,100,20100번 총알입니다
+20110,ammo,ACTIVE,TRUE,150,80,100,20110번 총알입니다
+20120,ammo,ACTIVE,TRUE,200,90,100,20120번 총알입니다

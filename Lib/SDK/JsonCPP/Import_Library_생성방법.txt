@@ -1,0 +1,7 @@
+$> dumpbin /exports [filename].dll > [filename].def
+
+# 32bit
+$> lib /def:[filename].def /out:[filename].lib /machine:x86
+
+# 64 Bit
+$> lib /def:[filename].def /out:[filename].lib /machine:x64

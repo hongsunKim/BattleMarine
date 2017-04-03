@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="db">
+      <UniqueIdentifier>{0980cf12-6a2f-48e4-b14a-7bf1fc40ff81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="item">
+      <UniqueIdentifier>{288c5e3e-6c0b-4bb0-893a-d2cbaee807fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="net">
+      <UniqueIdentifier>{aeebe89d-550c-4199-aca7-9d22f93cac4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util">
+      <UniqueIdentifier>{0831ff05-f126-4974-8313-3f2c9f7e36ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="world">
+      <UniqueIdentifier>{4ec1520a-9317-4f34-a0f9-a5131b345ed0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="net\data">
+      <UniqueIdentifier>{bb4bc0f6-31f3-4da2-9aec-8993c306d581}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommonHeader.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="Enums.h" />
+    <ClInclude Include="GlobalVariable.h" />
+    <ClInclude Include="ReTypedefined.h" />
+    <ClInclude Include="world\Room.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\RoomFactory.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\RoomHandler.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\Player.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\PlayerFactory.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\PlayerMgr.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="util\LogFile.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Singleton.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Utility.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Factory.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Key.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Locker.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Buffer.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Command.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Connector.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\ConnectorFactory.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Listener.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Packet.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Protocol.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Sensor.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Socket.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\data\ITEM.h">
+      <Filter>net\data</Filter>
+    </ClInclude>
+    <ClInclude Include="net\data\OTHER.h">
+      <Filter>net\data</Filter>
+    </ClInclude>
+    <ClInclude Include="net\data\ROOM.h">
+      <Filter>net\data</Filter>
+    </ClInclude>
+    <ClInclude Include="net\data\USER.h">
+      <Filter>net\data</Filter>
+    </ClInclude>
+    <ClInclude Include="net\data\ID.h">
+      <Filter>net\data</Filter>
+    </ClInclude>
+    <ClInclude Include="net\data\INFO.h">
+      <Filter>net\data</Filter>
+    </ClInclude>
+    <ClInclude Include="item\ItemData.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="item\Item.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="db\DbDataList.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\DbData.h">
+      <Filter>db</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="world\Room.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="world\RoomHandler.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="world\Player.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="world\PlayerMgr.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Factory.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="util\LogFile.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="net\Buffer.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\Connector.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\Listener.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\Sensor.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\Socket.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

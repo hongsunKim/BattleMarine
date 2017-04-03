@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="world\RoomHandlerEx.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="world\ChannelMgr.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="world\PlayerEx.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="world\RoomEx.cpp">
+      <Filter>world</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Tick.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="net\ITEM.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\Launcher.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\ROOM.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\USER.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\ConnectorEx.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\ID.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\INFO.cpp">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="item\ItemMgr.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="db\InventoryDbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\ItemInfoDbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\MapInfoDbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\ModInfoDbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\RewardInfoDbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\AccountDbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\Dbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\DbMgr.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="db\DropInfoDbm.cpp">
+      <Filter>db</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinyxmlerror.cpp">
+      <Filter>util\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinyxmlparser.cpp">
+      <Filter>util\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinystr.cpp">
+      <Filter>util\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\SDK\TinyXML\tinyxml.cpp">
+      <Filter>util\TinyXML</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="CommonHeader.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="Enums.h" />
+    <ClInclude Include="GlobalVariable.h" />
+    <ClInclude Include="world\RoomEx.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\RoomHandlerEx.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\ChannelMgr.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="world\PlayerEx.h">
+      <Filter>world</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Tick.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="util\Utility.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="net\Launcher.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\ConnectorEx.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="item\ItemMgr.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="item\ItemEx.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="db\DropInfoDbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\InventoryDbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\ItemInfoDbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\MapInfoDbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\ModInfoDbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\RewardInfoDbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\AccountDbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\DbData.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\DbDataList.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\Dbm.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="db\DbMgr.h">
+      <Filter>db</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\SDK\TinyXML\tinyxml.h">
+      <Filter>util\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\SDK\TinyXML\tinystr.h">
+      <Filter>util\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="net\CheatCode.h">
+      <Filter>net</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="db">
+      <UniqueIdentifier>{12ff773c-1a95-421c-b61f-dae3755a1d51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="world">
+      <UniqueIdentifier>{dad6832b-c1a8-48f7-833f-2a8d2ad7818e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="net">
+      <UniqueIdentifier>{0c7b769f-f80a-4672-99e5-4e79aed46bc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="item">
+      <UniqueIdentifier>{cc3638cb-bd5e-4f74-af87-77509606c11c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util">
+      <UniqueIdentifier>{6b1f27a8-bbdb-4d49-adab-8acc0fddefb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="script">
+      <UniqueIdentifier>{8eafe79c-5814-4733-ae61-1811124dfed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util\TinyXML">
+      <UniqueIdentifier>{86a64cdb-1c52-4fc8-a67d-8f9cf77b31d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CopyToSDK_Debug_x64.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="CopyToSDK_Release_Win32.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="CopyToSDK_Release_x64.bat">
+      <Filter>script</Filter>
+    </None>
+    <None Include="CopyToSDK_Debug_Win32.bat">
+      <Filter>script</Filter>
+    </None>
+  </ItemGroup>
+</Project>

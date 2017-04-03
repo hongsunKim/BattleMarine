@@ -1,0 +1,279 @@
+﻿  USER.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  ROOM.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  ModInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\modinfodbm.cpp(73): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\modinfodbm.cpp(74): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\modinfodbm.cpp(75): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\modinfodbm.cpp(76): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\room.cpp(426): warning C4700: uninitialized local variable 'room' used
+  Compiling...
+  RoomHandlerEx.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  RoomEx.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\world\roomex.cpp(183): warning C4018: '<=': signed/unsigned mismatch
+  PlayerEx.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  ChannelMgr.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\world\channelmgr.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\world\channelmgr.cpp(90): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\world\channelmgr.cpp(121): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\world\channelmgr.cpp(379): warning C4018: '<': signed/unsigned mismatch
+  Tick.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  Launcher.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  ITEM.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  INFO.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  ID.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\id.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'const UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\id.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'const UINT', possible loss of data
+  ConnectorEx.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  main.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  ItemMgr.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  RewardInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\rewardinfodbm.cpp(72): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\rewardinfodbm.cpp(74): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\rewardinfodbm.cpp(75): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\rewardinfodbm.cpp(76): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+  MapInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\mapinfodbm.cpp(81): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\mapinfodbm.cpp(82): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\mapinfodbm.cpp(83): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\mapinfodbm.cpp(84): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\mapinfodbm.cpp(85): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ItemInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\iteminfodbm.cpp(82): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\iteminfodbm.cpp(84): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\iteminfodbm.cpp(85): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\iteminfodbm.cpp(86): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\iteminfodbm.cpp(87): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+  InventoryDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\inventorydbm.cpp(31): warning C4101: 'ppRow': unreferenced local variable
+  DropInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(96): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(100): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(101): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(102): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(103): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(104): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(105): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(106): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(107): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dropinfodbm.cpp(108): warning C4244: '=': conversion from '__int64' to 'UINT', possible loss of data
+  Dbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.cpp(74): warning C4804: '<=': unsafe use of type 'bool' in operation
+  DbMgr.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+  AccountDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbm.h(35): warning C4800: 'INT': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\net\cheatcode.h(39): warning C4002: too many actual parameters for macro 'OUTPUT'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\dbmgr.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\accountdbm.cpp(211): warning C4244: 'argument': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameserver\db\accountdbm.cpp(218): warning C4244: 'argument': conversion from '__int64' to 'UINT', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  tinyxml.cpp
+  GameServer.vcxproj -> D:\Programming\Server\서버수업\소스코드\Portfolio\battlemarine\\Bin\Debug_x64\GameServer.exe
+  GameServer.vcxproj -> D:\Programming\Server\서버수업\소스코드\Portfolio\battlemarine\\Bin\Debug_x64\GameServer.pdb (Partial PDB)
+  "copy to libmysql"
+          1개 파일이 복사되었습니다.

@@ -1,0 +1,4 @@
+mi_id,mi_name,mi_max_user,mi_mod_ffa,mi_mod_tdm,mi_mod_zombie,mi_desc
+1,theHunter,16,TRUE,TRUE,TRUE,더 헌터
+2,LostTemple,8,TRUE,TRUE,TRUE,로스트 템플
+3,FastInfinite,16,FALSE,FALSE,TRUE,빠른 무한

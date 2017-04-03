@@ -1,0 +1,4 @@
+mi_mod,mi_map,mi_rule,mi_time,mi_itemdrop
+FFA,1,50,0,TRUE
+TDM,1,1,300,TRUE
+ZOMBIE,1,1,0,FALSE

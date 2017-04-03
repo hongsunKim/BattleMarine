@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="EUC-KR" ?>
+<configs>
+	<preference>
+		<server port="3500" />
+		<db host="127.0.0.1" name="battlemarine" user="root" passwd="test1234" />
+	</preference>
+</configs>

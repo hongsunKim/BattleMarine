@@ -1,0 +1,5 @@
+2017-02-04
+* database 이름이 multigame 에서 battlemarine으로 변경됩니다.
+* 64Bit로 문제 없이 실행하려면 Socket 번호를 기반으로 하는 Player Key들을 packet struct 소스들 에서 UINT32 -> UINT64 로 변경해야 합니다.
+* WebAuth(PHP) 소스들은 해당 디렉토리 하위의 Web으로 옮겨졌습니다.
+* Game Info용 Excel 파일들과 battlemarine DB 생성 스크립트는 Docs로 옮겨졌습니다.

@@ -1,0 +1,94 @@
+﻿  RoomHandler.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+  Socket.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.cpp(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.cpp(200): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.cpp(212): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.cpp(264): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sensor.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\sensor.cpp(11): warning C4309: 'argument': truncation of constant value
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\sensor.cpp(45): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  Compiling...
+  PlayerMgr.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\playermgr.cpp(17): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\playermgr.cpp(28): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\playermgr.cpp(48): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\playermgr.cpp(62): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  Player.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\player.cpp(66): warning C4244: '=': conversion from 'double' to 'INT32', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\player.cpp(67): warning C4244: '=': conversion from 'double' to 'INT32', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\player.cpp(74): warning C4244: '=': conversion from 'double' to 'INT32', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\world\player.cpp(75): warning C4244: '=': conversion from 'double' to 'INT32', possible loss of data
+  LogFile.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\util\logfile.cpp(15): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\util\logfile.cpp(58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\util\logfile.cpp(89): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\util\logfile.cpp(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\util\logfile.cpp(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\util\logfile.cpp(96): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Factory.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+  Listener.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\listener.cpp(40): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Connector.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\connector.cpp(90): warning C4244: 'argument': conversion from 'SOCKET' to 'UINT', possible loss of data
+  Buffer.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+  Generating Code...
+  NetEasy.vcxproj -> D:\Programming\Server\서버수업\소스코드\Portfolio\battlemarine\\Lib\Debug_x64\NetEasy.lib

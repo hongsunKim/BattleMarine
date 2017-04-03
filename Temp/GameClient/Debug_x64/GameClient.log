@@ -1,0 +1,1755 @@
+﻿  GameClient.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(98): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(116): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(121): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(124): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(127): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(168): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(273): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(312): warning C4244: 'initializing': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(313): warning C4244: 'initializing': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(319): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(321): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(318): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(460): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(209): warning C4101: 'ps': unreferenced local variable
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(492): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(496): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(509): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(513): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(573): warning C4129: ' ': unrecognized character escape sequence
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(579): warning C4129: ' ': unrecognized character escape sequence
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(814): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1073): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1188): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1189): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1271): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1272): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1360): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1361): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1337): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1502): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1545): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1665): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\gameclient.cpp(1718): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Generating Code...
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(70): warning C4715: 'CDropItemMgr::SeekDropItem': not all control paths return a value
+  Compiling...
+  RoomEx.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  PlayerEx.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\playerex.cpp(281): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\playerex.cpp(799): warning C4244: '=': conversion from 'tick_t' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\playerex.cpp(825): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Animator.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(34): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(40): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(46): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(52): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(58): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(64): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(70): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(76): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(85): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(91): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(97): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(103): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(109): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(115): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(121): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(127): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(136): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(142): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(148): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(154): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(160): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(166): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(172): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(178): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(187): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(262): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(267): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(278): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(300): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(301): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(323): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(324): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(340): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(341): warning C4018: '<': signed/unsigned mismatch
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(552): warning C4244: 'initializing': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(553): warning C4244: 'initializing': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(558): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(559): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(562): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(563): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(567): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(569): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(586): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(587): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(591): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(593): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(601): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(618): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(566): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(590): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\world\animator.cpp(618): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Tick.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Console.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\util\console.cpp(40): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\util\console.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  USER.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\net\user.cpp(57): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\net\user.cpp(58): warning C4244: 'argument': conversion from 'FLOAT' to 'tick_t', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  ROOM.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  OTHER.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Launcher.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  ITEM.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  INFO.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  ID.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  ConnectorEx.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  CHEAT.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\net\cheat.cpp(24): warning C4002: too many actual parameters for macro 'CONSOLE'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  RewardInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\rewardinfodbm.cpp(41): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\rewardinfodbm.cpp(50): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\rewardinfodbm.cpp(51): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\rewardinfodbm.cpp(52): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  ModInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\modinfodbm.cpp(50): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\modinfodbm.cpp(51): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\modinfodbm.cpp(52): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  MapInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\mapinfodbm.cpp(47): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\mapinfodbm.cpp(48): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  ItemInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\iteminfodbm.cpp(50): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\iteminfodbm.cpp(66): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\iteminfodbm.cpp(67): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\iteminfodbm.cpp(68): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  DropInfoDbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(67): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(99): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(100): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(103): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(104): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(105): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(106): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dropinfodbm.cpp(107): warning C4244: 'initializing': conversion from '__int64' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Dbm.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp(138): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp(140): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp(171): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp(172): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp(218): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\db\dbm.cpp(219): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Generating Code...
+  Compiling...
+  DbMgr.cpp
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\command.h(32): warning C4244: '=': conversion from 'UINT16' to 'BYTE', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\neteasy\net\socket.h(49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\inventory.h(19): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(27): warning C4267: 'return': conversion from 'size_t' to 'UINT', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\map(73): note: see reference to class template instantiation 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(75): note: see reference to class template instantiation 'std::map<UINT64,CItemEx *,std::less<UINT>,std::allocator<std::pair<const _Kty,_Ty>>>' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1483): note: see reference to function template instantiation 'bool std::_Debug_lt_pred<std::less<UINT>&,const unsigned __int64&,const unsigned __int64&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)' being compiled
+          with
+          [
+              _Pr=std::less<UINT> &,
+              _Ty1=const unsigned __int64 &,
+              _Ty2=const unsigned __int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xtree(1480): note: while compiling class template member function 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)'
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+  d:\programming\server\서버수업\소스코드\portfolio\battlemarine\gameclient\item\dropitemmgr.h(53): note: see reference to function template instantiation 'std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const _Kty,_Ty>>>> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::find(const unsigned __int64 &)' being compiled
+          with
+          [
+              _Kty=UINT64,
+              _Ty=CItemEx *,
+              _Pr=std::less<UINT>,
+              _Alloc=std::allocator<std::pair<const UINT64,CItemEx *>>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'const UINT', possible loss of data
+  Generating Code...
+  GameClient.vcxproj -> D:\Programming\Server\서버수업\소스코드\Portfolio\battlemarine\\Bin\Debug_x64\GameClient.exe
+  GameClient.vcxproj -> D:\Programming\Server\서버수업\소스코드\Portfolio\battlemarine\\Bin\Debug_x64\GameClient.pdb (Partial PDB)
+  "copy to libcurl"
+          1개 파일이 복사되었습니다.

@@ -1,0 +1,63 @@
+﻿/*
+ * Education Frameworks
+ * Copyright © 2015-2017 Origin Studio Inc.
+ *
+ */
+
+#pragma once
+
+#include "ReTypedefined.h"
+
+#include "net/Protocol.h"
+
+const INT iIP_HEAD_SIZE = 24;
+const INT iTCP_HEAD_SIZE = 24;
+
+const INT iMTU_SIZE = 1500 - (iIP_HEAD_SIZE + iTCP_HEAD_SIZE);
+
+const INT iMAX_PACKET_SIZE = iMTU_SIZE;
+
+const INT iTCP_PACKET_HEAD_SIZE = sizeof(STcpPacketHeader);
+const INT iPACKET_DATA_SIZE = iMAX_PACKET_SIZE - iTCP_PACKET_HEAD_SIZE;
+
+const INT iCOMMAND_HEAD_SIZE = sizeof(SCommandHeader);
+const INT iCOMMAND_DATA_SIZE = iPACKET_DATA_SIZE - iCOMMAND_HEAD_SIZE;
+
+const INT iDEFAULT_SO_SNDBUF_SIZE = 256 * 1024;
+const INT iDEFAULT_SO_RCVBUF_SIZE = 256 * 1024;
+
+const INT iTCP_MAX_SYN_BACKLOG = 1280;
+
+const INT iMAX_CONNECTION = 1048;
+
+const INT iLOG_BUFFER_LEN = 2048;
+
+const INT iFILE_NAME_LEN = 255;
+const INT iFILE_PATH_LEN = 1023;
+
+const INT iPLAYER_NAME_LEN = 32;
+const INT iPLAYER_MAX_LIFE = 100;
+const INT iPLAYER_HIT_POWER = 10;
+const INT iPLAYER_STEAMPACK_POWER = 10;
+const INT iPLAYER_CHAT_LEN = 1024;
+const INT iPLAYER_CHAT_LEN_LINE = 100;
+
+const INT iTEXT_LEN = 255;
+
+const INT iMAX_ROOM_MEMBERS = 16;
+const INT iROOM_NAME_LEN = 64;
+
+const INT iSECTION_DISTANCE = 10;
+const INT iGAME_MAP_WIDTH = 600;
+const INT iGAME_MAP_HEIGHT = 600;
+
+const INT iLOGIN_ID_LEN = 32;
+const INT iLOGIN_PWD_LEN = 32;
+
+const INT iITEM_NAME_LEN = 50;
+const INT iITEM_DESC_LEN = 200;
+
+const INT iMAP_NAME_LEN = 30;
+const INT iMAP_DESC_LEN = 100;
+
+const INT iINVENTORY_CAPACITY = 10;
